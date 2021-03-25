@@ -2,7 +2,7 @@
 
             Juan Esteban Unas Ocampo
             Ingenieria Informatica
-            Progrma para calcular velocidad de particula
+            Programa para calcular velocidad de particula
             
 *******************************************************************************/
 #include <iostream>
